@@ -1,0 +1,7 @@
+--create table kunden(
+  --  kundeid int primary key,
+    --vorname varchar(200) not null,
+--    nachname varchar(200) not null,
+  ---  adresseid int,
+   -- messlokationid int
+--)

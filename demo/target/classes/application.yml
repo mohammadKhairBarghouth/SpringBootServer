@@ -1,0 +1,6 @@
+app:
+  datasource:
+    jdbc-url: jdbc:postgresql://localhost:5432/messstellenbetrieb
+    username: postgres
+    password: 123
+    poll-size: 30
